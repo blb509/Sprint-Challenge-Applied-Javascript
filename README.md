@@ -32,7 +32,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-The DOM (Document Object Model) is an API for HTML.
+The DOM (Document Object Model) is an API for HTML. When a page is loaded,
+the browser creates a DOM  of the page. Using javascript you can access the DOM and change the HTML
+and CSS elements of a page.
 
 2. What is an event?
 
@@ -49,7 +51,8 @@ To access the methods of an array.
 
 5. What is a component?
 
-A component is a resusable piece of code made up of HTML, CSS, and JavaScript.
+A component is a modular reusable piece of code. A component can be
+HTML,CSS, and/or JavaScript.
 
 ### Git Set up
 
